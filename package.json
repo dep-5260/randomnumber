@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dep-5260/rng-randomnumbergenerator.git"
+    "url": "git+https://github.com/dep-5260/randomnumber.git"
   },
   "keywords": [
     "rng",
@@ -26,9 +26,9 @@
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/dep-5260/rng-randomnumbergenerator/issues"
+    "url": "https://github.com/dep-5260/randomnumber/issues"
   },
-  "homepage": "https://github.com/dep-5260/rng-randomnumbergenerator#readme",
+  "homepage": "https://github.com/dep-5260/randomnumber/blob/main/README.md",
   "dependencies": {
     "node-fetch": "^2.6.1"
   }
